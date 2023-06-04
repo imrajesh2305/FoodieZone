@@ -1,0 +1,59 @@
+.onion-samosa-onion-samosa {
+    width: 260px;
+    height: 296px;
+    display: flex;
+    padding: 0;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(225, 174, 76, 1);
+  }
+  .onion-samosa-pngegg1 {
+    top: 33px;
+    left: 12px;
+    width: 234px;
+    height: 160px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .onion-samosa-text {
+    top: 201px;
+    left: 12px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .onion-samosa-text2 {
+    top: 223px;
+    left: 12px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
